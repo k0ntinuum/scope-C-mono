@@ -1,4 +1,4 @@
-
+//
 int main(void) {
     build_height_layers(7,7);
     update_activations();
